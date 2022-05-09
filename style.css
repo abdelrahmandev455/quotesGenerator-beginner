@@ -1,0 +1,36 @@
+body{
+  display: flex;
+  background: black;
+  color:white;
+  justify-content:center;
+  align-items:center;
+  height: 100vh;
+}
+
+.con{
+  padding:1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content:center;
+  width:100%;
+}
+
+.author{
+  display: flex;
+  justify-content:flex-end;
+  width: 100%;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,100&display=swap');
+
+.con>p{
+  font-family: 'Macondo', cursive;
+  font-size:3rem;
+}
+
+.author>span{
+  font-family: 'Roboto Mono', monospace;
+}
+
+/*copyright*/ .copyright{ position: fixed; top:1rem; right: 1rem; background: #1425E3; color:white; border:2px; width: 2rem; height: 2rem; border-radius: 5px; }
