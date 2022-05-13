@@ -10,7 +10,7 @@ It includes an animation made with Aos and a very well chosen typography.
 
 ## Links
 
-['See live']['https://qoutes-beginner.netlify.app']
+['See live']['https://qoutesit.netlify.app']
 
 ###### Copyright 
 All right reseved by Abdelrahman with the email 
